@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+   font-size: 4vw;
+   font-weight: bold;
+   
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    padding: 10vw;
+    font-family: 'Montserrat', sans-serif;
+
+}
+p {
+   /* background-color: pink; */
+   padding: 4px;
+    margin-left: auto;
+    margin-top: -30px;
+}
