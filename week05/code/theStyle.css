@@ -1,10 +1,32 @@
 body {
     background-color: green;
+    font-family: 'Assistant', sans-serif;
 }
 
 main {
     border: solid 10px pink;
+    background-color: rgb(100,100,100);
+    border-radius: 100px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
 
+p {
+    background-color: yellow;
+    padding: 4vw;
+    margin: 100px;
+    color: pink;
+    font-size: 100px;
+}
 
+footer {
+    display: grid;
+    background-color: white;
+       grid-template-columns: 1fr 1fr 1fr;
+}
 
+footer p {
+    background-color: blue;
+    margin: 2px;
 }
