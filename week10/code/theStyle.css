@@ -1,0 +1,16 @@
+main {
+    background-color: green;
+    height: 40vh;
+    padding: 40vw;
+}
+
+button {
+    padding: 10vw;
+    border-radius: 100%;
+    
+}
+
+
+button:hover{
+    background-color: yellow;
+}
